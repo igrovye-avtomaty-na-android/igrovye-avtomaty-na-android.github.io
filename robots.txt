@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igrovye-avtomaty-na-android.github.io
+Sitemap: https://igrovye-avtomaty-na-android.github.io/sitemap.xml
